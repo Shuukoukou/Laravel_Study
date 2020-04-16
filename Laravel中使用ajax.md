@@ -1,3 +1,7 @@
+# Laravel中使用ajax
+
+本篇主要讲解在Laravel框架中如何使用ajax
+
 
 ## 路由设置
 
