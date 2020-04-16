@@ -11,10 +11,17 @@
 [![GitHub followers](https://img.shields.io/github/followers/xingshaocheng.svg?label=%E5%85%B3%E6%B3%A8)](https://github.com/xingshaocheng)
 
 
-* [PHP基础知识](https://github.com/Shuukoukou/Laravel_Study/blob/master/README.md#php%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
-	* [队列](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
+* [PHP知识](https://github.com/Shuukoukou/Laravel_Study/blob/master/README.md#php%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
+	* [基础](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
+	* [进阶](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
+	* [高级](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
+	
 * [Laravel框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
+	* [基础](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
+	* [进阶](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
+	* [高级](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
 
 
-# PHP基础知识
+
+# PHP知识
 
