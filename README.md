@@ -9,3 +9,9 @@
 [![GitHub forks](https://img.shields.io/github/forks/xingshaocheng/architect-awesome.svg?style=flat&label=Fork)](https://github.com/xingshaocheng/architect-awesome/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/xingshaocheng/architect-awesome.svg?style=flat&label=Watch)](https://github.com/xingshaocheng/architect-awesome/watchers)
 [![GitHub followers](https://img.shields.io/github/followers/xingshaocheng.svg?label=%E5%85%B3%E6%B3%A8)](https://github.com/xingshaocheng)
+
+
+* [PHP基础知识](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
+	* [队列](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
+* [Laravel框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
+
