@@ -11,7 +11,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/xingshaocheng.svg?label=%E5%85%B3%E6%B3%A8)](https://github.com/xingshaocheng)
 
 
-* [PHP基础知识](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
+* [PHP基础知识](https://https://github.com/Shuukoukou/Laravel_Study/edit/master/README.md#PHP基础知识)
 	* [队列](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
 * [Laravel框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
+
+
+#PHP基础知识
 
