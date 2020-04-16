@@ -2,6 +2,8 @@
   
 记录Laravel框架的学习之路 
 
+[Laravel5.8中文文档](https://learnku.com/docs/laravel/5.8)
+
 -----------
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
