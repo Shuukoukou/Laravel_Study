@@ -21,7 +21,7 @@
 * [Laravel框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
 	* [基础](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
 	* [进阶](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
-		* [Laravel中使用ajax](https://github.com/Shuukoukou/Laravel_Study/tree/master/notes/Laravel%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86)
+		* [Laravel中使用ajax](https://github.com/Shuukoukou/Laravel_Study/blob/master/notes/Laravel%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86/Laravel%E4%B8%AD%E4%BD%BF%E7%94%A8ajax.md)
 	* [高级](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
 
 
