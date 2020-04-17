@@ -24,6 +24,7 @@
 		* [控制器](https://github.com/Shuukoukou/Laravel_Study/blob/master/notes/Laravel%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86/%E6%8E%A7%E5%88%B6%E5%99%A8.md)
 		* [视图](https://github.com/Shuukoukou/Laravel_Study/blob/master/notes/Laravel%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86/%E8%A7%86%E5%9B%BE.md)
 	* [进阶](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
+		* [深入剖析 Laravel 服务提供者实现原理](http://blog.phpzendo.com/?p=358)
 		* [Laravel中使用ajax](https://github.com/Shuukoukou/Laravel_Study/blob/master/notes/Laravel%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86/Laravel%E4%B8%AD%E4%BD%BF%E7%94%A8ajax.md)
 	* [高级](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
 
