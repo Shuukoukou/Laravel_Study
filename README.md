@@ -3,6 +3,7 @@
 记录Laravel框架的学习之路 
 
 ### [Laravel5.8中文文档](https://learnku.com/docs/laravel/5.8)
+### [PHP基础学习](https://github.com/Shuukoukou/PHP_Study)
 
 -----------
 ![学习脑图](https://github.com/Shuukoukou/Laravel_Study/blob/master/source/Laravel%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0.png?raw=true)
@@ -14,10 +15,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/xingshaocheng.svg?label=%E5%85%B3%E6%B3%A8)](https://github.com/xingshaocheng)
 
 
-* [PHP知识](https://github.com/Shuukoukou/Laravel_Study/blob/master/README.md#php%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
-	* [基础](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
-	* [进阶](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
-	* [高级](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
 	
 * [Laravel框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
 	* [基础](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
@@ -32,6 +29,4 @@
 	* [高级](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
 
 
-
-# PHP知识
 
