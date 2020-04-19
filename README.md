@@ -5,6 +5,7 @@
 ### [Laravel5.8中文文档](https://learnku.com/docs/laravel/5.8)
 
 -----------
+![学习脑图](https://github.com/Shuukoukou/Laravel_Study/blob/master/source/Laravel%E6%A1%86%E6%9E%B6%E5%AD%A6%E4%B9%A0.png?raw=true)
 
 [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 [![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg?style=flat&label=Star)](https://github.com/Shuukoukou/Laravel_Study/watchers)
