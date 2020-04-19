@@ -19,6 +19,7 @@
 * [Laravel框架](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
 	* [基础](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
 		* [路由](https://github.com/Shuukoukou/Laravel_Study/blob/master/notes/Laravel%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86/%E8%B7%AF%E7%94%B1.md)
+			* [深入理解HTTP协议](https://mp.weixin.qq.com/s/AK1Pb9rx0q5Hf8dq6HNOhw)	
 		* [控制器](https://github.com/Shuukoukou/Laravel_Study/blob/master/notes/Laravel%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86/%E6%8E%A7%E5%88%B6%E5%99%A8.md)
 		* [视图](https://github.com/Shuukoukou/Laravel_Study/blob/master/notes/Laravel%E6%A1%86%E6%9E%B6%E7%9F%A5%E8%AF%86/%E8%A7%86%E5%9B%BE.md)
 	* [进阶](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
