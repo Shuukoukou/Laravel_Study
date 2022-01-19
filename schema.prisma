@@ -1,0 +1,61 @@
+generator client {
+  provider = "prisma-client-js"
+  previewFeatures = ["interactiveTransactions"]
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model books {
+  id         Int       @id @default(autoincrement()) @db.UnsignedInt
+  book_cd    String    @db.VarChar(5)
+  book_name  String    @db.VarChar(50)
+  author     String?   @db.VarChar(50)
+  created_at DateTime  @default(now()) @db.Timestamp(0)
+  add_user   String?   @db.VarChar(20)
+  updated_at DateTime  @default(now()) @db.Timestamp(0)
+  edit_user  String?   @db.VarChar(20)
+  deleted_at DateTime? @default(dbgenerated("('0000-00-00 00:00:00')")) @db.Timestamp(0)
+}
+
+model roles {
+  id        Int    @id @default(autoincrement()) @db.UnsignedInt
+  role_cd   String @db.VarChar(10)
+  role_name String @db.VarChar(20)
+}
+
+model users {
+  id         Int       @id @default(autoincrement()) @db.UnsignedInt
+  user_name  String    @db.VarChar(20)
+  password   String    @db.VarChar(255)
+  user_cd    String?   @db.VarChar(50)
+  email      String    @db.VarChar(50)
+  role_cd    String    @db.VarChar(10)
+  created_at DateTime  @default(now()) @db.Timestamp(0)
+  add_user   String?   @db.VarChar(20)
+  updated_at DateTime  @default(now()) @db.Timestamp(0)
+  edit_user  String    @db.VarChar(20)
+  deleted_at DateTime? @db.Timestamp(0)
+}
+
+model words {
+  id         BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  kana       String    @db.VarChar(50)
+  kanji      String    @db.VarChar(50)
+  sem        String    @db.VarChar(50)
+  pos        String    @db.VarChar(10)
+  ex         String    @db.VarChar(255)
+  audio      String    @db.VarChar(50)
+  book_cd    String    @db.VarChar(10)
+  lesson     Int
+  remembered Boolean   @default(false)
+  tested     Boolean   @default(false)
+  time       Int?
+  created_at DateTime  @default(now()) @db.Timestamp(0)
+  add_user   String?   @db.VarChar(20)
+  updated_at DateTime  @default(now()) @db.Timestamp(0)
+  edit_user  String?   @db.VarChar(20)
+  deleted_at DateTime? @db.Timestamp(0)
+}
